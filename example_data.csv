@@ -1,0 +1,7 @@
+Timestamp (UTC),Transaction Description,Currency,Amount,To Currency,To Amount,Native Currency,Native Amount,Native Amount (in USD),Transaction Kind,Transaction Hash
+2024-09-21 22:04:30,Recurring CRO Purchase,EUR,20.0,CRO,250.7698324661215621,EUR,-20.0,-22.3335154,recurring_buy_order,
+2024-09-21 22:04:27,Recurring BTC Purchase,EUR,20.0,BTC,0.0003484694801034,EUR,-20.0,-22.3335154,recurring_buy_order,
+2024-09-21 22:00:28,Recurring ETH Purchase,EUR,20.0,ETH,0.0085575676625386,EUR,-20.0,-22.3335154,recurring_buy_order,
+2024-09-07 22:05:48,Recurring ETH Purchase,EUR,20.0,ETH,0.0096039789060416,EUR,-20.0,-22.3335154,recurring_buy_order,
+2024-09-07 22:01:33,Recurring BTC Purchase,EUR,20.0,BTC,0.0004037111419144,EUR,-20.0,-22.3335154,recurring_buy_order,
+2024-09-07 22:01:16,Recurring CRO Purchase,EUR,20.0,CRO,286.4400024462338192,EUR,-20.0,-22.3335154,recurring_buy_order,
